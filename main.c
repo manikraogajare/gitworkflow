@@ -4,4 +4,8 @@ feature1{
 	F1;
 }
 
+feature3{
+	F3;
+}
+
 
