@@ -1,4 +1,4 @@
-
+<<<<<<< HEAD
 Hellow World 
 This is my code 
 feature1{
@@ -8,7 +8,7 @@ This is my code
 Hellow World 
 feature2{
 	F2;
-
+>>>>>>> feature2
 }
 
 
